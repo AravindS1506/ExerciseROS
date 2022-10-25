@@ -1,0 +1,6 @@
+devel_space: /home/aravind/ex1/devel
+install: false
+install_space: /home/aravind/ex1/install
+profile: default
+source_space: /home/aravind/ex1/src
+workspace: /home/aravind/ex1
